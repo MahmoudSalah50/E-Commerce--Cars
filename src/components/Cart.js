@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Swal from "sweetalert2";
 import { useNavigate } from "react-router-dom";
-import "./CarsCss/cart.css"; // Ensure you have this CSS file
+import "./CarsCss/cart.css"; 
 
 const Cart = ({ count, setCount, removeFromCart }) => {
   const [cart, setCart] = useState([]);
@@ -56,9 +56,9 @@ const Cart = ({ count, setCount, removeFromCart }) => {
         setCart([]);
         setCount(0); // Update cart count to 0
 
-        navigate("/order"); // Redirect to order page
+        navigate("/order"); 
       });
-    }, 2000); // Simulate delay of 2 seconds
+    }, 2000);
   };
 
   return (
