@@ -20,9 +20,9 @@
 }
 
 .card-img-top {
-  max-height: 200px; /* Reduce image height */
+  max-height: 200px; 
   width: auto;
-  object-fit: cover; /* Ensures image fits without distortion */
+  object-fit: cover; 
   border-radius: 5px;
 }
 
