@@ -1,0 +1,145 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Tesla Model S",
+        "description": "Electric sedan with cutting-edge technology.",
+        "price": 79999,
+        "image": "https://images.pexels.com/photos/16653735/pexels-photo-16653735/free-photo-of-view-of-a-black-tesla-model-s-on-a-parking-lot.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 2,
+        "name": "BMW 3 Series",
+        "description": "Luxury sedan with a sporty design.",
+        "price": 42999,
+        "image": "https://images.pexels.com/photos/16551632/pexels-photo-16551632/free-photo-of-a-white-bmw-on-the-street-at-night.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 3,
+        "name": "Audi A4",
+        "description": "Premium sedan with advanced safety features.",
+        "price": 35999,
+        "image": "https://images.pexels.com/photos/11213779/pexels-photo-11213779.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 4,
+        "name": "Mercedes-Benz C-Class",
+        "description": "Elegant sedan with a refined interior.",
+        "price": 45999,
+        "image": "https://images.pexels.com/photos/25340995/pexels-photo-25340995/free-photo-of-black-mercedes-benz-c-class.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 5,
+        "name": "Ford Mustang",
+        "description": "Iconic muscle car with powerful performance.",
+        "price": 55999,
+        "image": "https://images.pexels.com/photos/2127732/pexels-photo-2127732.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 6,
+        "name": "Chevrolet Camaro",
+        "description": "High-performance sports car with aggressive styling.",
+        "price": 46999,
+        "image": "https://images.pexels.com/photos/24181704/pexels-photo-24181704/free-photo-of-blue-chevrolet-camaro.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 7,
+        "name": "Honda Civic",
+        "description": "Compact car with reliable performance and efficiency.",
+        "price": 22999,
+        "image": "https://images.pexels.com/photos/25637367/pexels-photo-25637367/free-photo-of-a-gray-honda-civic-parked-in-a-park.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 8,
+        "name": "Toyota Corolla",
+        "description": "Popular compact sedan known for its reliability.",
+        "price": 21999,
+        "image": "https://images.pexels.com/photos/20867335/pexels-photo-20867335/free-photo-of-white-racing-toyota-corolla.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 9,
+        "name": "Subaru Outback",
+        "description": "Versatile SUV with off-road capability.",
+        "price": 31999,
+        "image": "https://images.pexels.com/photos/3989847/pexels-photo-3989847.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 10,
+        "name": "Jeep Grand Cherokee",
+        "description": "Rugged SUV with a luxurious interior.",
+        "price": 42999,
+        "image": "https://images.pexels.com/photos/119435/pexels-photo-119435.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 11,
+        "name": "Volkswagen Tiguan",
+        "description": "Compact SUV with a stylish design and practical features.",
+        "price": 34999,
+        "image": "https://images.pexels.com/photos/14038627/pexels-photo-14038627.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 12,
+        "name": "Nissan Rogue",
+        "description": "Spacious SUV with advanced technology.",
+        "price": 31999,
+        "image": "https://images.pexels.com/photos/11798451/pexels-photo-11798451.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 13,
+        "name": "Mazda CX-5",
+        "description": "Sporty SUV with a premium interior.",
+        "price": 33999,
+        "image": "https://images.pexels.com/photos/17402035/pexels-photo-17402035/free-photo-of-green-mazda-mx-5.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 14,
+        "name": "Hyundai Santa Fe",
+        "description": "Family-friendly SUV with a comfortable ride.",
+        "price": 30999,
+        "image": "https://images.pexels.com/photos/11194510/pexels-photo-11194510.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 15,
+        "name": "Kia Sorento",
+        "description": "Three-row SUV with a high-quality interior.",
+        "price": 32999,
+        "image": "https://images.pexels.com/photos/9714429/pexels-photo-9714429.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 16,
+        "name": "Land Rover Range Rover",
+        "description": "Luxury SUV with exceptional off-road capabilities.",
+        "price": 89999,
+        "image": "https://images.pexels.com/photos/4639907/pexels-photo-4639907.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 17,
+        "name": "Porsche Cayenne",
+        "description": "High-performance SUV with a sporty feel.",
+        "price": 74999,
+        "image": "https://images.pexels.com/photos/25956735/pexels-photo-25956735/free-photo-of-nissan-gt-r-and-ford-mustang-cars-at-stadium.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 18,
+        "name": "Tesla Model X",
+        "description": "Electric SUV with distinctive falcon-wing doors.",
+        "price": 89999,
+        "image": "https://images.pexels.com/photos/10029773/pexels-photo-10029773.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 19,
+        "name": "Chevrolet Silverado",
+        "description": "Full-size pickup truck with powerful towing capabilities.",
+        "price": 45999,
+        "image": "https://images.pexels.com/photos/23094196/pexels-photo-23094196/free-photo-of-chevrolet-silverado-1500-pickup-truck.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 20,
+        "name": "Ford F-150",
+        "description": "Best-selling full-size pickup truck with robust performance.",
+        "price": 47999,
+        "image": "https://images.pexels.com/photos/10198740/pexels-photo-10198740.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  }
+  

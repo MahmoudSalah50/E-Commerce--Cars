@@ -1,0 +1,83 @@
+.order-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .order-page h1 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .order-summary {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+  }
+  
+  .order-summary h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .order-summary p {
+    margin-bottom: 5px;
+  }
+  
+  .order-summary .total {
+    font-weight: bold;
+    font-size: 1.2rem;
+    text-align: right;
+  }
+  
+  .submit-order {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .submit-order:hover {
+    background-color: #0056b3;
+  }
+/* CarsCss/order.css */
+.container {
+    margin-top: 20px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .btn-primary {
+    margin-top: 10px;
+    position: relative;
+    right: 4%;
+  
+  }
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+    
