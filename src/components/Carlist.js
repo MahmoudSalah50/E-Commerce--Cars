@@ -6,7 +6,7 @@ const CarList = ({ addToCart }) => {
   const [cars, setCars] = useState([]);
 
   useEffect(() => {
-    fetch("cars.json")
+    fetch("http://localhost:9000/cars")
       .then((response) => response.json())
       .then((data) => setCars(data));
   }, []);
