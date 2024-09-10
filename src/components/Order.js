@@ -8,7 +8,7 @@ const Order = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    // Fetch orders from localStorage
+    
     const storedOrder = JSON.parse(localStorage.getItem('order')) || [];
     setOrder(storedOrder);
 
@@ -34,7 +34,7 @@ const Order = () => {
       timer: 2000,
       timerProgressBar: true,
       didClose: () => {
-        navigate('/'); // Navigate to home after alert is closed
+        navigate('/'); 
       }
     });
   };
